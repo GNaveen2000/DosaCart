@@ -14,14 +14,14 @@ export default function Navigator(){
                     <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link as={Link} to="/">Home</Nav.Link>
-                        <Nav.Link as={Link} to="/Ouritems">Items </Nav.Link>
-                        <Nav.Link href="#pricing">Pricing</Nav.Link>
+                        <Nav.Link as={Link} to="/Ouritems">About </Nav.Link>
+                        <Nav.Link href="#pricing">Contact</Nav.Link>
                         
                     </Nav>
-                    <Nav>
+                    {/* <Nav>
                         <Nav.Link as={Link} to="/Login">Login</Nav.Link>
                         <Nav.Link as={Link} to="/Register">Register</Nav.Link>
-                    </Nav>
+                    </Nav> */}
                     </Navbar.Collapse>
                 </Container>
                 </Navbar>

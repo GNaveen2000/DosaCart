@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Register from './componets/forms/Register.js';
 import Login from './componets/forms/Login.js'
@@ -8,6 +7,7 @@ import Ouritems from './componets/about/ourItems.js'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navigator from './componets/forms/Navigator';
 import Footer from './componets/forms/Footer';
+import Demo from './componets/about/Demo';
 
 
 function App() {
@@ -15,6 +15,7 @@ function App() {
    
    <BrowserRouter>
     <Navigator />
+    <Demo />
     <Routes>
           <Route path="/Register" element={<Register />}></Route>
           <Route path="/Login" element={<Login />}></Route>

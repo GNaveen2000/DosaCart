@@ -1,0 +1,17 @@
+{
+    "items":[ {
+        "itemId":"101",
+        "itemName":"Idli",
+        "itemPrice":"45"
+    },
+    {
+        "itemId":"102",
+        "itemName":"Dosa",
+        "itemPrice":"45"
+    },
+    {
+        "itemId":"103",
+        "itemName":"Parota",
+        "itemPrice":"50"
+    }]
+}

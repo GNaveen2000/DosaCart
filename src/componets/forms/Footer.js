@@ -4,7 +4,7 @@ export default function Footer(){
     return(
         <>
         <div className="footer footer-align container-fluid">
-            <h4>Rayalaseema Dosa Corner</h4>
+            {/* <h4>Rayalaseema Dosa Corner</h4> */}
             <div className="row"> 
                 <div className="col-8">
                 <button type="button " title="facebook" aria-label="twitter" className="btn btn-dark btn-flat p-2 footerIcon">
@@ -19,7 +19,7 @@ export default function Footer(){
                 </div>
                 <div className="col-4">
                     <small className="text-center" style={{"width":"50%"}}>
-                        &copy; Dosakart, 2024.<br /> All rights reserved.
+                        &copy; Sree Venkata Sai Durga, 2024<br /> All rights reserved.
                     </small>
                 </div>
             </div>
