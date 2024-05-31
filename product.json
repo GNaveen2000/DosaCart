@@ -16,7 +16,7 @@
             "productDescription":"Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
             "productPrice":700,
             "productCategory":"veg",
-            "productUrl":"://vellankifoods.com/cdn/shop/products/magaya_pickle_mango_thokku.jpg?v=1680180793"
+            "productUrl":"https://vellankifoods.com/cdn/shop/products/magaya_pickle_mango_thokku.jpg?v=1680180793"
         },
         {
             "id":1004,
@@ -53,7 +53,8 @@
             "productDescription":"Taste the delicious Boneless Chicken pickle prepared in Andhra style at home",
             "productPrice":1000,
             "productCategory":"non-veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
+            "productUrl":"https://drive.google.com/thumbnail?id=14tYsLpjSOG1TYFlL_99cVlAswwIBeldL"
+           
         },
         {
             "id":1008,
@@ -62,7 +63,7 @@
             "productDescription":"Taste the delicious Chicken pickle (with bone) prepared in Andhra style at home",
             "productPrice":1000,
             "productCategory":"non-veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
+            "productUrl":"https://drive.google.com/thumbnail?id=1GnNu911edjbi_dX8-EQE9oKRQcPWUwdJ"
         },
         {
             "id":1009,
@@ -82,5 +83,8 @@
             "productCategory":"non-veg",
             "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
         }
+    ],
+    "order":[
+        
     ]
 }
