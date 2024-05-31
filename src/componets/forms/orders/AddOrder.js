@@ -28,7 +28,7 @@ const AddOrder = (props) => {
         axios.get('https://karthik-fake-repository.onrender.com/products').then((res)=>{
             setProduct=(res.data);            
         }).catch(error=>console.log(error)) 
-        console.log(product)       
+        console.log(product)        
         },[props])
     
     console.log(product)
