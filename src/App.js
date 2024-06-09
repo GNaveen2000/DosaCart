@@ -7,7 +7,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Product from './componets/forms/product/Product';
 import ViewProduct from './componets/forms/product/ViewProduct';
 import AboutUs from './componets/forms/product/AboutUs';
-import Orders from './componets/forms/orders/Orders.js';
 
 
 
@@ -19,7 +18,6 @@ function App() {
      <Routes>
          <Route path="/" element={<About />}></Route>
           <Route path='aboutus' element={<AboutUs />}></Route>
-          <Route path='/orders' element={<Orders />}></Route>
           <Route path="Ouritems" element={<Product />}>  </Route> 
             <Route path="product/:productId" element={<ViewProduct />}>  </Route> 
           
