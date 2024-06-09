@@ -1,90 +1,109 @@
 {
     "products":[
         {
-            "id":1001,
-            "productId":1001,
-            "productName" : "Avakaya pickle",
-            "productDescription":"Taste the delicious Avakaya pickle prepared in Andhra style at home",
-            "productPrice":700,
-            "productCategory":"veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        },
-        {
-            "id":1003,
-            "productId":1003,
-            "productName" : "Maagaya Thokku",
-            "productDescription":"Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
-            "productPrice":700,
-            "productCategory":"veg",
-            "productUrl":"https://vellankifoods.com/cdn/shop/products/magaya_pickle_mango_thokku.jpg?v=1680180793"
-        },
-        {
-            "id":1004,
-            "productId":1004,
-            "productName" : "Mixed Veg pickle",
-            "productDescription":"Taste the delicious Mixed Veg pickle prepared in Andhra style at home",
-            "productPrice":700,
-            "productCategory":"veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        },
-        {
-            "id":1002,
-            "productId":1002,
-            "productName" : "Maagaya (Small size Cut Mango Pickle)",
-            "productDescription":"Try the delicious Maagaya pickle prepared in Andhra style at home with small sliced mangoes",
-            "productPrice":700,
-            "productCategory":"veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        },
-        
-        {
-            "id":1005,
-            "productId":1005,
-            "productName" : "Maagaya (Regular size Cut Mango Pickle)",
-            "productDescription":"Try the delicious Maagaya pickle prepared in Andhra style at home ",
-            "productPrice":700,
-            "productCategory":"veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        },
-        {
-            "id":1007,
-            "productId":1007,
-            "productName" : "Chicken Pickle (Boneless)",
-            "productDescription":"Taste the delicious Boneless Chicken pickle prepared in Andhra style at home",
-            "productPrice":1000,
-            "productCategory":"non-veg",
-            "productUrl":"https://drive.google.com/thumbnail?id=14tYsLpjSOG1TYFlL_99cVlAswwIBeldL"
+            "id": 1001,
+            "productId": 1001,
+            "productName": "Avakaya pickle",
+            "productDescription": "Taste the delicious Avakaya pickle prepared in Andhra style at home",
+            "productPrice": 749,
+            "productCategory": "veg",
+            "productUrl": "https://m.media-amazon.com/images/I/41ylimwIXwL._AC_UF350,350_QL80_.jpg"
+          },
+          {
+            "id": 1003,
+            "productId": 1003,
+            "productName": "Maagaya / Mango Slice Pickle",
+            "productDescription": "Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
+            "productPrice": 729,
+            "productCategory": "veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1CYdbG85WgO0S6YypLgOUGleoFz_8OgBG"
+          },
+          {
+            "id": 1004,
+            "productId": 1004,
+            "productName": "Mixed Veg pickle",
+            "productDescription": "Taste the delicious Mixed Veg pickle prepared in Andhra style at home",
+            "productPrice": 699,
+            "productCategory": "veg",
+            "productUrl": "https://images.saymedia-content.com/.image/t_share/MTc0NDI1Njg0Njk1ODUyMzky/how-to-make-mixed-vegetable-pickle-in-10-minutes.jpg"
+          },
+          {
+            "id": 1002,
+            "productId": 1002,
+            "productName": "Maagaya (Cut Mango Pickle)",
+            "productDescription": "Try the delicious Maagaya pickle prepared in Andhra style at home",
+            "productPrice": 729,
+            "productCategory": "veg",
+            "productUrl": "https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
+          },
+          {
+            "id": 1005,
+            "productId": 1005,
+            "productName": "Tomato Pickle ",
+            "productDescription": "Try the delicious and authentic Tomato pickle prepared in Andhra style at home ",
+            "productPrice": 649,
+            "productCategory": "veg",
+            "productUrl": "https://i.pinimg.com/736x/f5/b4/a3/f5b4a3aced92cdd951b5cee0325a8258--south-indian-food-homestead.jpg"
+          },
+          {
+            "id": 1006,
+            "productId": 1006,
+            "productName": "Gongura Pickle ",
+            "productDescription": "Try the delicious and spicy Gongura pickle prepared in Andhra style at home ",
+            "productPrice": 499,
+            "productCategory": "veg",
+            "productUrl": "https://th.bing.com/th/id/OIP.TFRJsOQbbUmaOTitSR-LXQHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "id": 1007,
+            "productId": 1007,
+            "productName": "Chicken Pickle (Boneless)",
+            "productDescription": "Taste the delicious Boneless Chicken pickle prepared in Andhra style at home",
+            "productPrice": 1299,
+            "productCategory": "non-veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=14tYsLpjSOG1TYFlL_99cVlAswwIBeldL"
+          },
+          {
+            "id": 1008,
+            "productId": 1008,
+            "productName": "Chicken Pickle( with Bone)",
+            "productDescription": "Taste the delicious Chicken pickle (with bone) prepared in Andhra style at home",
+            "productPrice": 1199,
+            "productCategory": "non-veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1GnNu911edjbi_dX8-EQE9oKRQcPWUwdJ"
+          },
+          {
+            "id": 1009,
+            "productId": 1009,
+            "productName": "Fish Pickle",
+            "productDescription": "Taste the delicious Fish pickle prepared in Andhra style at home",
+            "productPrice": 1049,
+            "productCategory": "non-veg",
+            "productUrl": "https://th.bing.com/th/id/OIP.LIlch5UEgpIgU3gq9sDqngHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "id": 1010,
+            "productId": 1010,
+            "productName": "Prawn Pickle",
+            "productDescription": "Taste the delicious Prawn pickle prepared in Andhra style at home",
+            "productPrice": 1399,
+            "productCategory": "non-veg",
+            "productUrl": "https://3.bp.blogspot.com/_QD-CzLN9bVI/SYl3NblyMFI/AAAAAAAAAhU/DrP1dPQQydE/s400/prawn+pickle.gif"
+          },
+          {
+            "id": 1011,
+            "productId": 1011,
+            "productName": "Drumstick Pickle ",
+            "productDescription": "Try the delicious and spicy Drumstick pickle ",
+            "productPrice": 699,
+            "productCategory": "veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1gjiVmUTs_5uHVqQbYmzyqAtgyq-Z-oHI"
+            
            
-        },
-        {
-            "id":1008,
-            "productId":1008,
-            "productName" : "Chicken Pickle( with Bone)",
-            "productDescription":"Taste the delicious Chicken pickle (with bone) prepared in Andhra style at home",
-            "productPrice":1000,
-            "productCategory":"non-veg",
-            "productUrl":"https://drive.google.com/thumbnail?id=1GnNu911edjbi_dX8-EQE9oKRQcPWUwdJ"
-        },
-        {
-            "id":1009,
-            "productId":1009,
-            "productName" : "Fish Pickle",
-            "productDescription":"Taste the delicious Fish pickle prepared in Andhra style at home",
-            "productPrice":1000,
-            "productCategory":"non-veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        },
-        {
-            "id":1010,
-            "productId":1010,
-            "productName" : "Prawn Pickle",
-            "productDescription":"Taste the delicious Prawn pickle prepared in Andhra style at home",
-            "productPrice":1000,
-            "productCategory":"non-veg",
-            "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-        }
+          }
     ],
     "order":[
         
     ]
 }
+
