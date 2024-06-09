@@ -5,8 +5,6 @@ import { Link, useParams } from "react-router-dom";
 import './productStyle.css'
 
 
-
-
 export default function ViewProduct(){
 
     let params=useParams();
@@ -33,11 +31,9 @@ export default function ViewProduct(){
 
     return(
         <>
-        {loading ? <Loader /> :
-       
+        {loading ? <Loader /> : 
         <div>
             <div  className="row viewProduct">
-
             <Card  style={{ width: '22rem' }}>
                 <Card.Header>
                     {<Card.Title className="cardJusitfy">{product.productName}</Card.Title> }
@@ -55,15 +51,10 @@ export default function ViewProduct(){
                 </ListGroup>
                 <Card.Body>
                 <Link to='https://wa.me/8296591085'> <Button className="w-100 btn btn-lg " value="Order" variant="primary">Order</Button>
-                </Link>
-                    
+                </Link>      
                 </Card.Body>
             </Card>
-
-              
-
-            </div>
-
+           </div>
         </div> 
 }
         </>
