@@ -20,7 +20,7 @@ export default function AboutUs(){
                 <div className="p-1 bg-success w-100"></div>
             
             <Col  sm={6}>
-                    <h5>Ingredients used in our Veg preparation :</h5> 
+                    <h5>Ingredients used in Veg preparation :</h5> 
                     <ul >
                         <li>Home made turmeric powder</li>
                         <li>Home made chilli powder</li>
@@ -38,7 +38,7 @@ export default function AboutUs(){
                 
                 </Col>
                 <Col  sm={6}>
-                    <h5>Ingredients and Spices used in our Veg preparation :</h5> 
+                    <h5>Ingredients and Spices used in Non-Veg preparation :</h5> 
                     <ul >
                         <li>Home made turmeric powder</li>
                         <li>Home made chilli powder</li>
