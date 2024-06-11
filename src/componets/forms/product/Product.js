@@ -17,7 +17,7 @@ export function Loader() {
 function ProductDisplay(props){
     
 
-    const[vegProduct,setVegProduct]=useState(props.product);
+    const[vegProduct,setVegProduct]=useState();
     const[nonVegProduct,setNonVegProduct]=useState();
     
     useEffect(()=>{
@@ -45,12 +45,9 @@ export default function Product(){
         
        
         axios.get('https://karthik-fake-repository.onrender.com/products').then((res)=>{
-            setData(res.data);            
-        }).catch(error=>console.log(error))
-                
+            setData(res.data);      
+        }).catch(error=>console.log(error))          
         },[])
-
-
     return(
         <>  
         {data.length ? <ProductDisplay product={data}/> : <Loader />}

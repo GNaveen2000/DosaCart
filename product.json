@@ -1,287 +1,109 @@
 {
-  "products": [
-    {
-      "id": "1001",
-      "productId": 1001,
-      "productName": "Avakaya pickle",
-      "productDescription": "Taste the delicious Avakaya pickle prepared in Andhra style at home",
-      "productPrice": 749,
-      "productCategory": "veg",
-      "productUrl": "https://m.media-amazon.com/images/I/41ylimwIXwL._AC_UF350,350_QL80_.jpg"
-    },
-    {
-      "id": "1003",
-      "productId": 1003,
-      "productName": "Maagaya / Mango Slice Pickle",
-      "productDescription": "Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
-      "productPrice": 729,
-      "productCategory": "veg",
-      "productUrl": "https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-    },
-    {
-      "id": "1004",
-      "productId": 1004,
-      "productName": "Mixed Veg pickle",
-      "productDescription": "Taste the delicious Mixed Veg pickle prepared in Andhra style at home",
-      "productPrice": 699,
-      "productCategory": "veg",
-      "productUrl": "https://images.saymedia-content.com/.image/t_share/MTc0NDI1Njg0Njk1ODUyMzky/how-to-make-mixed-vegetable-pickle-in-10-minutes.jpg"
-    },
-    {
-      "id": "1002",
-      "productId": 1002,
-      "productName": "Maagaya (Cut Mango Pickle)",
-      "productDescription": "Try the delicious Maagaya pickle prepared in Andhra style at home",
-      "productPrice": 729,
-      "productCategory": "veg",
-      "productUrl": "https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
-    },
-    {
-      "id": "1005",
-      "productId": 1005,
-      "productName": "Tomato Pickle ",
-      "productDescription": "Try the delicious and authentic Tomato pickle prepared in Andhra style at home ",
-      "productPrice": 649,
-      "productCategory": "veg",
-      "productUrl": "https://i.pinimg.com/736x/f5/b4/a3/f5b4a3aced92cdd951b5cee0325a8258--south-indian-food-homestead.jpg"
-    },
-    {
-      "id": "1006",
-      "productId": 1006,
-      "productName": "Gongura Pickle ",
-      "productDescription": "Try the delicious and spicy Gongura pickle prepared in Andhra style at home ",
-      "productPrice": 499,
-      "productCategory": "veg",
-      "productUrl": "https://th.bing.com/th/id/OIP.TFRJsOQbbUmaOTitSR-LXQHaHa?rs=1&pid=ImgDetMain"
-    },
-    {
-      "id": "1007",
-      "productId": 1007,
-      "productName": "Chicken Pickle (Boneless)",
-      "productDescription": "Taste the delicious Boneless Chicken pickle prepared in Andhra style at home",
-      "productPrice": 1299,
-      "productCategory": "non-veg",
-      "productUrl": "https://drive.google.com/thumbnail?id=14tYsLpjSOG1TYFlL_99cVlAswwIBeldL"
-    },
-    {
-      "id": "1008",
-      "productId": 1008,
-      "productName": "Chicken Pickle( with Bone)",
-      "productDescription": "Taste the delicious Chicken pickle (with bone) prepared in Andhra style at home",
-      "productPrice": 1199,
-      "productCategory": "non-veg",
-      "productUrl": "https://drive.google.com/thumbnail?id=1GnNu911edjbi_dX8-EQE9oKRQcPWUwdJ"
-    },
-    {
-      "id": "1009",
-      "productId": 1009,
-      "productName": "Fish Pickle",
-      "productDescription": "Taste the delicious Fish pickle prepared in Andhra style at home",
-      "productPrice": 1049,
-      "productCategory": "non-veg",
-      "productUrl": "https://th.bing.com/th/id/OIP.LIlch5UEgpIgU3gq9sDqngHaHa?rs=1&pid=ImgDetMain"
-    },
-    {
-      "id": "1010",
-      "productId": 1010,
-      "productName": "Prawn Pickle",
-      "productDescription": "Taste the delicious Prawn pickle prepared in Andhra style at home",
-      "productPrice": 1399,
-      "productCategory": "non-veg",
-      "productUrl": "https:/
-    },
-    {
-      "id": "1011",
-      "productId": 1011,
-      "productName": "Drumstick Pickle ",
-      "productDescription": "Try the delicious Drumstick pickle ",
-      "productPrice": 699,
-      "productCategory": "veg",
-      "productUrl": "https://th.bing.com/th/id/OIP.TFRJsOQbbUmaOTitSR-LXQHaHa?rs=1&pid=ImgDetMain"
-    }
-  ],
-  "orders": [
-    {
-      "id": "bc6a",
-      "userName": "Babu",
-      "orderId": "3510356f-accc-4154-8503-6b81dd5110af",
-      "orderItem": "Prawn Pickle",
-      "orderQuantity": "1/2",
-      "orderPrice": 709,
-      "orderedOn": "2024-06-05",
-      "totalOrder": [
+    "products":[
         {
-          "item": "Maagaya / Mango Slice Pickle",
-          "quantity": "1/2",
-          "price": 374
-        },
-        {
-          "item": "Tomato Pickle ",
-          "quantity": "1",
-          "price": 649
-        },
-        {
-          "item": "Prawn Pickle",
-          "quantity": "1/2",
-          "price": 709
-        }
-      ],
-      "totalPrice": 1732,
-      "orderPayment": true,
-      "orderCompleted": true,
-      "orderDelivery": true
-    },
-    {
-      "id": "2733",
-      "userName": "",
-      "orderId": "bf1107d9-a91f-4637-9a59-2517946387e2",
-      "orderItem": "Prawn Pickle",
-      "orderQuantity": "1",
-      "orderPrice": 1399,
-      "orderedOn": "",
-      "totalOrder": [
-        {
-          "item": "Maagaya (Cut Mango Pickle)",
-          "quantity": "1",
-          "price": 729
-        },
-        {
-          "item": "Chicken Pickle (Boneless)",
-          "quantity": "1/2",
-          "price": 659
-        },
-        {
-          "item": "Prawn Pickle",
-          "quantity": "1",
-          "price": 1399
-        }
-      ],
-      "totalPrice": 2787,
-      "orderPayment": true,
-      "orderCompleted": true,
-      "orderDelivery": true
-    },
-    {
-      "id": "a229",
-      "userName": "Karthik",
-      "orderId": "34ebb490-1dc8-4f02-85b5-152b61a78833",
-      "orderItem": "Chicken Pickle( with Bone)",
-      "orderQuantity": "1",
-      "orderPrice": 1199,
-      "orderedOn": "2024-06-02",
-      "totalOrder": [
-        {
-          "item": "Mixed Veg pickle",
-          "quantity": "1/2",
-          "price": 359
-        },
-        {
-          "item": "Chicken Pickle( with Bone)",
-          "quantity": "1",
-          "price": 1199
-        }
-      ],
-      "totalPrice": 1558,
-      "orderPayment": true,
-      "orderCompleted": false,
-      "orderDelivery": true
-    },
-    {
-      "id": "a7e4",
-      "userName": "Nadi",
-      "orderId": "df0238f5-38df-4c5b-a8f5-a33c3efe8960",
-      "orderItem": "Mixed Veg pickle",
-      "orderQuantity": "1",
-      "orderPrice": 699,
-      "orderedOn": "2024-06-12",
-      "totalOrder": [
-        {
-          "item": "Mixed Veg pickle",
-          "quantity": "1",
-          "price": 699
-        },
-        {
-          "item": "Mixed Veg pickle",
-          "quantity": "1",
-          "price": 699
-        }
-      ],
-      "totalPrice": 1398,
-      "orderPayment": true,
-      "orderCompleted": false,
-      "orderDelivery": true
-    },
-        },
-        {
-          "item": "Tomato Pickle ",
-          "quantity": "1",
-          "price": 649
-        },
-        {
-          "item": "Prawn Pickle",
-          "quantity": "1/2",
-          "price": 709
-        }
-      ],
-      "totalPrice": 1732,
-      "orderPayment": true,
-      "orderCompleted": true,
-      "orderDelivery": true
-    },
-    {
-      "id": "2733",
-      "userName": "",
-      "orderId": "bf1107d9-a91f-4637-9a59-2517946387e2",
-      "orderItem": "Prawn Pickle",
-      "orderQuantity": "1",
-      "orderPrice": 1399,
-      "orderedOn": "",
-      "totalOrder": [
-        {
-          "item": "Maagaya (Cut Mango Pickle)",
-          "quantity": "1",
-          "price": 729
-        },
-        {
-          "item": "Chicken Pickle (Boneless)",
-          "quantity": "1/2",
-          "price": 659
-        },
-        {
-          "item": "Prawn Pickle",
-          "quantity": "1",
-          "price": 1399
-        }
-      ],
-      "totalPrice": 2787,
-      "orderPayment": true,
-      "orderCompleted": true,
-      "orderDelivery": true
-    },
-    {
-      "id": "a229",
-      "userName": "Karthik",
-      "orderId": "34ebb490-1dc8-4f02-85b5-152b61a78833",
-      "orderItem": "Chicken Pickle( with Bone)",
-      "orderQuantity": "1",
-      "orderPrice": 1199,
-      "orderedOn": "2024-06-02",
-      "totalOrder": [
-        {
-          "item": "Mixed Veg pickle",
-          "quantity": "1/2",
-          "price": 359
-        },
-        {
-          "item": "Chicken Pickle( with Bone)",
-          "quantity": "1",
-          "price": 1199
-        }
-      ],
-      "totalPrice": 1558,
-      "orderPayment": true,
-      "orderCompleted": false,
-      "orderDelivery": true
-    }
-  ]
+            "id": 1001,
+            "productId": 1001,
+            "productName": "Avakaya pickle",
+            "productDescription": "Taste the delicious Avakaya pickle prepared in Andhra style at home",
+            "productPrice": 749,
+            "productCategory": "veg",
+            "productUrl": "https://m.media-amazon.com/images/I/41ylimwIXwL._AC_UF350,350_QL80_.jpg"
+          },
+          {
+            "id": 1003,
+            "productId": 1003,
+            "productName": "Maagaya / Mango Slice Pickle",
+            "productDescription": "Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
+            "productPrice": 729,
+            "productCategory": "veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1CYdbG85WgO0S6YypLgOUGleoFz_8OgBG"
+          },
+          {
+            "id": 1004,
+            "productId": 1004,
+            "productName": "Mixed Veg pickle",
+            "productDescription": "Taste the delicious Mixed Veg pickle prepared in Andhra style at home",
+            "productPrice": 699,
+            "productCategory": "veg",
+            "productUrl": "https://images.saymedia-content.com/.image/t_share/MTc0NDI1Njg0Njk1ODUyMzky/how-to-make-mixed-vegetable-pickle-in-10-minutes.jpg"
+          },
+          {
+            "id": 1002,
+            "productId": 1002,
+            "productName": "Maagaya (Cut Mango Pickle)",
+            "productDescription": "Try the delicious Maagaya pickle prepared in Andhra style at home",
+            "productPrice": 729,
+            "productCategory": "veg",
+            "productUrl": "https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
+          },
+          {
+            "id": 1005,
+            "productId": 1005,
+            "productName": "Tomato Pickle ",
+            "productDescription": "Try the delicious and authentic Tomato pickle prepared in Andhra style at home ",
+            "productPrice": 649,
+            "productCategory": "veg",
+            "productUrl": "https://i.pinimg.com/736x/f5/b4/a3/f5b4a3aced92cdd951b5cee0325a8258--south-indian-food-homestead.jpg"
+          },
+          {
+            "id": 1006,
+            "productId": 1006,
+            "productName": "Gongura Pickle ",
+            "productDescription": "Try the delicious and spicy Gongura pickle prepared in Andhra style at home ",
+            "productPrice": 499,
+            "productCategory": "veg",
+            "productUrl": "https://th.bing.com/th/id/OIP.TFRJsOQbbUmaOTitSR-LXQHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "id": 1007,
+            "productId": 1007,
+            "productName": "Chicken Pickle (Boneless)",
+            "productDescription": "Taste the delicious Boneless Chicken pickle prepared in Andhra style at home",
+            "productPrice": 1299,
+            "productCategory": "non-veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=14tYsLpjSOG1TYFlL_99cVlAswwIBeldL"
+          },
+          {
+            "id": 1008,
+            "productId": 1008,
+            "productName": "Chicken Pickle( with Bone)",
+            "productDescription": "Taste the delicious Chicken pickle (with bone) prepared in Andhra style at home",
+            "productPrice": 1199,
+            "productCategory": "non-veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1GnNu911edjbi_dX8-EQE9oKRQcPWUwdJ"
+          },
+          {
+            "id": 1009,
+            "productId": 1009,
+            "productName": "Fish Pickle",
+            "productDescription": "Taste the delicious Fish pickle prepared in Andhra style at home",
+            "productPrice": 1049,
+            "productCategory": "non-veg",
+            "productUrl": "https://th.bing.com/th/id/OIP.LIlch5UEgpIgU3gq9sDqngHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "id": 1010,
+            "productId": 1010,
+            "productName": "Prawn Pickle",
+            "productDescription": "Taste the delicious Prawn pickle prepared in Andhra style at home",
+            "productPrice": 1399,
+            "productCategory": "non-veg",
+            "productUrl": "https://3.bp.blogspot.com/_QD-CzLN9bVI/SYl3NblyMFI/AAAAAAAAAhU/DrP1dPQQydE/s400/prawn+pickle.gif"
+          },
+          {
+            "id": 1011,
+            "productId": 1011,
+            "productName": "Drumstick Pickle ",
+            "productDescription": "Try the delicious and spicy Drumstick pickle ",
+            "productPrice": 699,
+            "productCategory": "veg",
+            "productUrl": "https://drive.google.com/thumbnail?id=1gjiVmUTs_5uHVqQbYmzyqAtgyq-Z-oHI"
+            
+           
+          }
+    ],
+    "order":[
+        
+    ]
 }
+
