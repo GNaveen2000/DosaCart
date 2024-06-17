@@ -6,7 +6,7 @@ import axios from "axios";
 import './productStyle.css'
 
 
-function Loader() {
+export function Loader() {
     return <>
     <div className="about-us">
     <Spinner animation="border" />
