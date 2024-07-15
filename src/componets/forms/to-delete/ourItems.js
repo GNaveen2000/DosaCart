@@ -1,9 +1,9 @@
 import './Str.css'
-import Mango from './Mango.js';
-import { Outlet, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function Ouritems()
 {
+
     return(
 <>
 <div style={{display:'flex',marginLeft:30,alignItems:'center',gap:65,marginRight:30}}>

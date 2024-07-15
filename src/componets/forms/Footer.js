@@ -59,7 +59,7 @@ export default function Footer(){
                                     </a>
                         </Col>
                         <Col xs={5}>
-                        <h5 className='fontStyle' > +91 8185813609, 9663583504</h5>
+                        <h5 className='fontStyle' > +91 8185813609, 8296591085</h5>
                         </Col>
                         
                         
