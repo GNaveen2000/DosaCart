@@ -47,7 +47,7 @@ export default function ViewProduct(){
                 </Card.Body>
                 <ListGroup className="list-group-flush">
                     <ListGroup.Item>1/2 kg : {Math.floor(product.productPrice/2) +10} Rs </ListGroup.Item>
-                    <ListGroup.Item>1 kg : {product.productPrice} Rs</ListGroup.Item>
+                    <ListGroup.Item>1 kg : {product.productPrice} Rs {product.productId===1010 && <span>(Seasonal price) </span>}</ListGroup.Item>
                 </ListGroup>
                 <Card.Body>
                 <Link to='https://wa.me/8296591085'> <Button className="w-100 btn btn-lg " value="Order" variant="primary">Order</Button>
